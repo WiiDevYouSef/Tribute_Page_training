@@ -8,7 +8,7 @@ A simple yet effective Attribute Page project created with HTML and CSS. This pr
 🎨 Custom Styling: Utilizes CSS to style and layout elements for a polished look.
 🧩 HTML Attributes: Demonstrates the use of various HTML attributes to enhance functionality and appearance.
 🌐 Live Demo
-Explore the live project at Attribute (https://wiidevyousef.github.io/Tribute_Page_training/).
+Explore the live project at (https://wiidevyousef.github.io/Tribute_Page_training/).
 
 🛠️ What I Learned
 
